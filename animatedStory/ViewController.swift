@@ -9,9 +9,9 @@
 import UIKit
 
 struct Constants {
-    static let textViewWidth = UIScreen.main.bounds.width-50
+    static let textViewWidth = UIScreen.main.bounds.width-65
     static let textViewHeight = UIScreen.main.bounds.height/2.5
-    static let imageViewWidth: CGFloat = UIScreen.main.bounds.width/4
+    static let imageViewWidth: CGFloat = UIScreen.main.bounds.height/2*1.2
     static let imageViewHeight: CGFloat = UIScreen.main.bounds.height/2
     static let buttonWidth: CGFloat = 300
     static let buttonHeight: CGFloat = 100
