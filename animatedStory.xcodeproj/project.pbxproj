@@ -13,6 +13,7 @@
 		F6394AB424310AD60011EF0A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6394AB224310AD60011EF0A /* Main.storyboard */; };
 		F6394AB624310ADB0011EF0A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F6394AB524310ADB0011EF0A /* Assets.xcassets */; };
 		F6394AB924310ADB0011EF0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F6394AB724310ADB0011EF0A /* LaunchScreen.storyboard */; };
+		F6394AC1243112E70011EF0A /* Dialogue.swift in Sources */ = {isa = PBXBuildFile; fileRef = F6394AC0243112E70011EF0A /* Dialogue.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		F6394AB524310ADB0011EF0A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F6394AB824310ADB0011EF0A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F6394ABA24310ADB0011EF0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F6394AC0243112E70011EF0A /* Dialogue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dialogue.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				F6394AAC24310AD60011EF0A /* AppDelegate.swift */,
 				F6394AAE24310AD60011EF0A /* SceneDelegate.swift */,
 				F6394AB024310AD60011EF0A /* ViewController.swift */,
+				F6394AC0243112E70011EF0A /* Dialogue.swift */,
 				F6394AB224310AD60011EF0A /* Main.storyboard */,
 				F6394AB524310ADB0011EF0A /* Assets.xcassets */,
 				F6394AB724310ADB0011EF0A /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 				F6394AB124310AD60011EF0A /* ViewController.swift in Sources */,
 				F6394AAD24310AD60011EF0A /* AppDelegate.swift in Sources */,
 				F6394AAF24310AD60011EF0A /* SceneDelegate.swift in Sources */,
+				F6394AC1243112E70011EF0A /* Dialogue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
